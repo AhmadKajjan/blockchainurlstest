@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/blockchainurlstest/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/blockchainurlstest/static/js/main.771f487b.chunk.js",
+    "main.js.map": "/blockchainurlstest/static/js/main.771f487b.chunk.js.map",
+    "runtime-main.js": "/blockchainurlstest/static/js/runtime-main.7ec07972.js",
+    "runtime-main.js.map": "/blockchainurlstest/static/js/runtime-main.7ec07972.js.map",
+    "static/js/2.5605ff02.chunk.js": "/blockchainurlstest/static/js/2.5605ff02.chunk.js",
+    "static/js/2.5605ff02.chunk.js.map": "/blockchainurlstest/static/js/2.5605ff02.chunk.js.map",
+    "index.html": "/blockchainurlstest/index.html",
+    "precache-manifest.2ec18abe3d175197dc796a0fe344e06b.js": "/blockchainurlstest/precache-manifest.2ec18abe3d175197dc796a0fe344e06b.js",
+    "service-worker.js": "/blockchainurlstest/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/blockchainurlstest/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.5605ff02.chunk.js.LICENSE.txt": "/blockchainurlstest/static/js/2.5605ff02.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ec07972.js",
+    "static/js/2.5605ff02.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.771f487b.chunk.js"
+  ]
+}
